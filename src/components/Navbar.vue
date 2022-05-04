@@ -2,7 +2,6 @@
   <div id="nav">
     <router-link to="/" id="logo_url">
       <img :src="logo" id="logo" :alt="alt" />
-      <p class="title">MakeYouBurger</p>
     </router-link>
     <div class="menus">
       <router-link to="/">Home</router-link>
