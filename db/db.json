@@ -79,78 +79,12 @@
   ],
   "burgers": [
     {
-      "nome": "Alexandre Pateis da Rocha",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opscionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Alexandre Pateis da Rocha",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opscionais": [
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Mazoola",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
-      "opscionais": [
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "Alexandre Pateis da Rocha",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opscionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": null,
-      "carne": null,
-      "pao": null,
-      "opscionais": [],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "nome": null,
-      "carne": null,
-      "pao": null,
-      "opscionais": [],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
       "nome": "",
       "carne": "",
       "pao": "",
-      "opscionais": [],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "nome": null,
-      "carne": null,
-      "pao": null,
-      "opscionais": [],
-      "status": "Solicitado",
-      "id": 8
+      "opcionais": [],
+      "status": "Finalizado",
+      "id": 9
     }
   ]
 }
